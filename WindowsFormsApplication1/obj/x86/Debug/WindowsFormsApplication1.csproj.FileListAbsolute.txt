@@ -1,0 +1,30 @@
+c:\users\neshta\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\neshta\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\neshta\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\neshta\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\neshta\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\neshta\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\neshta\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+c:\users\neshta\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Neshta\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database1.mdf
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Database1_log.ldf
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\bin\Debug\Database1.mdf
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\bin\Debug\Database1_log.ldf
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\bin\Debug\ChatteR v1.0.exe.config
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\bin\Debug\ChatteR v1.0.exe
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\bin\Debug\ChatteR v1.0.pdb
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\obj\x86\Debug\ChatteR v1.0.exe
+C:\Users\Neshta\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1_2\WindowsFormsApplication1\obj\x86\Debug\ChatteR v1.0.pdb
